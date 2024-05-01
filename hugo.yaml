@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: https://pacman100.github.io/
 languageCode: en-us
 title: My New Hugo Site
-theme: "Stack"
+theme: [Stack]
