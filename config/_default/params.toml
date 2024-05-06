@@ -28,7 +28,7 @@ readingTime = true
 
 [article.license]
 enabled = true
-default = "Licensed under MIT"
+default = "Licensed under CC BY-NC-SA 4.0"
 
 ## Widgets
 [[widgets.homepage]]
