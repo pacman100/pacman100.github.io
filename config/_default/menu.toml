@@ -22,3 +22,11 @@ url = "https://www.linkedin.com/in/sourab-m/"
 
 [social.params]
 icon = "brand-linkedin"
+
+[[social]]
+identifier = "chatbot"
+name = "chatbot"
+url = "https://pacman100.github.io/AI-Avatar"
+
+[social.params]
+icon = "chatbot"
