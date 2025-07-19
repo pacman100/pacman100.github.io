@@ -14,6 +14,7 @@ tags:
 weight: 1       # You can add weight to some posts to override the default sorting (date descending)
 ---
 
+                                                 || जय श्री राम ||
 ## What is E-Khata?
 
 Starting **October 1, 2024**, the **Bruhat Bengaluru Mahanagara Palike (BBMP)** has made **eKhata** a compulsory requirement for **property registration** and **title transfers**.
