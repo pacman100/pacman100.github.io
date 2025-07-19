@@ -1,7 +1,7 @@
 ---
 title: E-Khata Application Process
 description: We will look at how to submit online E-Khata Application.
-slug: sourab-mangrulkar
+slug: bbmp-ekhata
 date: 2025-07-19 00:00:00+0000
 image: search_page.png
 categories:
